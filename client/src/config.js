@@ -6,7 +6,6 @@ export const USER_VIDEOS_ENDPOINT = `${REST_API_ENDPOINT}/user-videos`;
 export const ADD_BIO_ENDPOINT = `${REST_API_ENDPOINT}/bio`;
 export const UPLOAD_VIDEO_ENDPOINT = `${REST_API_ENDPOINT}/upload-video`;
 export const REGISTERED_USERS_ENDPOINT = `${REST_API_ENDPOINT}/registered-users`;
-export const LISTING_VIDEOS_ENDPOINT = `${REST_API_ENDPOINT}/listing-videos`;
 export const LISTING_VIDEOS_LIMIT = 5;
 export const ADD_BIO_CONFIG = {
   MAXIMUM_WORDS_COUNT: 500,
